@@ -3,7 +3,9 @@
 I'm pursuing a career in Computer Science.
 
 -experience with C++, JavaScript, AppsSript, VBA and Python
+
 -scripts/macros for Google Sheets and Excel
+
 -browser automation with Selenium
 
 <!---
