@@ -1,8 +1,11 @@
 👋 Hi, I’m @oskar156
 
 -experience with SQL, JavaScript/AppsSript, VBA, Python, and C++,
+
 -scripts/macros for Google Sheets and Excel
+
 -browser automation with Selenium
+
 -API connections in JavaScript
 
 <!---
