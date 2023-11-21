@@ -1,14 +1,9 @@
 👋 Hi, I’m @oskar156
 
-I'm pursuing a career in Computer Science.
-
--experience with C++, JavaScript, AppsSript, VBA and Python
-
+-experience with SQL, JavaScript/AppsSript, VBA, Python, and C++,
 -scripts/macros for Google Sheets and Excel
-
 -browser automation with Selenium
-
--API exploration in JavaScript
+-API connections in JavaScript
 
 <!---
 oskar156/oskar156 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
