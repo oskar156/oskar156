@@ -1,12 +1,19 @@
 👋 Hi, I’m @oskar156
 
--experience with SQL, JavaScript/AppsSript, VBA, Python, and C++,
+Here's a quick summary of what I've done:
 
--scripts/macros for Google Sheets and Excel
+-Experience with SQL
 
--browser automation with Selenium
+-Browser Automation with Selenium to automate data entry/scraping (Python)
 
--API connections in JavaScript
+-Various other data/automation projects in Python (like streamlining the import/export process for SQL Server)
+
+-API connections to automate reporting (AppsSript)
+
+-scripts/macros for Google Sheets and Excel (JavaScript/AppsSript and VBA)
+
+-small projects in C++
+  
 
 <!---
 oskar156/oskar156 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
