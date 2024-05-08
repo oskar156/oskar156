@@ -2,11 +2,11 @@
 
 Here's a quick summary of what I've done:
 
--Experience with SQL
+-Professional experience with SQL Server
 
--Browser Automation with Selenium to automate data entry/scraping (Python)
+-Browser Automation / Data Entry Automation / Web-Scraping with Selenium (Python)
 
--Various other data/automation projects in Python (like streamlining the import/export process for SQL Server)
+-Data/automation projects in Python (like streamlining the import/export process for SQL Server)
 
 -API connections to automate reporting (AppsSript)
 
