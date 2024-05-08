@@ -8,9 +8,9 @@ Here's a quick summary of what I've done:
 
 -Data/automation projects in Python (like streamlining the import/export process for SQL Server)
 
--API connections to automate reporting (AppsSript)
+-API connections to automate reporting (JavaScript)
 
--scripts/macros for Google Sheets and Excel (JavaScript/AppsSript and VBA)
+-scripts/macros for Google Sheets and Excel (AppsScript and VBA)
 
 -small projects in C++
   
