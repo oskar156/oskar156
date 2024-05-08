@@ -2,7 +2,7 @@
 
 Here's a quick summary of what I've done:
 
--Professional experience with SQL Server
+-Experience with SQL Server
 
 -Browser Automation / Data Entry Automation / Web-Scraping with Selenium (Python)
 
