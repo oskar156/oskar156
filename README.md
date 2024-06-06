@@ -2,15 +2,17 @@
 
 Here's a quick summary of what I've done:
 
--Experience with SQL Server
+-SQL
 
 -Browser Automation / Data Entry Automation / Web-Scraping with Selenium (Python)
 
 -Data/automation projects in Python (like streamlining the import/export process for SQL Server)
 
--API connections to automate reporting (JavaScript)
+-Visual Studio (C#)
 
 -scripts/macros for Google Sheets and Excel (AppsScript and VBA)
+
+-API connections to automate reporting (JavaScript)
 
 -small projects in C++
   
