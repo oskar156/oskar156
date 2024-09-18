@@ -2,11 +2,11 @@
 
 Here's a quick summary of what I've done:
 
--SQL
+-SQL (SQL Server and Snowflake)
 
 -Browser Automation / Data Entry Automation / Web-Scraping with Selenium (Python)
 
--Data/automation/ETL projects in Python and Visual Studio/C# (like streamlining the import/export process for SQL Server and Snowflake)
+-Data/automation/ETL projects in Python and Visual Studio/C# (like streamlining the import/export process for SQL Server)
 
 -Visual Studio (C#)
 
