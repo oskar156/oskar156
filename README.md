@@ -6,7 +6,7 @@ Here's a quick summary of what I've done:
 
 -Browser Automation / Data Entry Automation / Web-Scraping with Selenium (Python)
 
--Data/automation/ETL projects in Python and Visual Studio/C# (like streamlining the import/export process for SQL Server)
+-Data/automation/ETL projects in Python and Visual Studio/C# (like streamlining the import/export process for SQL Server and Snowflake)
 
 -Visual Studio (C#)
 
