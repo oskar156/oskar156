@@ -4,15 +4,11 @@ Here's a quick summary of what I've done:
 
 -SQL (SQL Server and Snowflake)
 
--Browser Automation / Data Entry Automation / Web-Scraping with Selenium (Python)
+-Browser Automation / Data Entry Automation / Web-Scraping with Selenium (Python and JavaScript)
 
--Data/automation/ETL projects in Python and Visual Studio/C# (like streamlining the import/export process for SQL Server)
+-ETL projects in Python and Visual Studio/C# (like streamlining the import/export process for SQL Server)
 
--Visual Studio (C#)
-
--scripts/macros for Google Sheets and Excel (AppsScript and VBA)
-
--API connections to automate reporting (JavaScript)
+-scripts/macros for Google Sheets and Excel (AppScript and VBA)
 
 -small projects in C++
   
